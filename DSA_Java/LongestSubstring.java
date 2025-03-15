@@ -1,4 +1,4 @@
-//Java Program to Reverse a String Preserving Spaces
+//Java program to find longest substring without repeating characters in a string
 package DSA_Java;
 
 import java.util.HashMap;
