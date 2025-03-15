@@ -4,7 +4,7 @@ package DSA_Java;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ReverseStringPreserveSpace {
+public class LongestSubstring {
     
     public static String getUniqueCharacterSubstring(String input){
 
